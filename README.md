@@ -2,7 +2,7 @@
 
 ## Is time to Java, but not the Java coffee, is the Java lang! 
 ### :coffee:
-## This is a small project in Java what make the IPVA caculation based on the fuel of the vehicle("gás", "flex" and "gasolina"), using the power of the JOptionPane to make the simple windows and posting the response to the user, the arquive.jar of this application are upload on MEGA, thank you to view my project! see you!
+## This is a small project in Java what make the IPVA caculation based on the fuel of the vehicle("gás", "flex" and "gasolina"), using the power of the JOptionPane to make the simple windows and posting the response for the user, the arquive.jar of this application are upload on MEGA, thank you to view my project! see you!
 
 ## Link on MEGA:
 [projectIPVA](https://mega.nz/file/CXZl3CjC#aCr_ZqiXqgC1kwTGkgu8Se_cpkXct3_JmOhj2ew8Aiw)
