@@ -16,13 +16,14 @@ public class Ipva extends Veiculo {
     }
 
     public void calculaIpva() {
-        if (combustivel.equals("gás")) {
+        if (combustivel.equals("GNV")) {
             valorIpva = (valorVeiculo * 0.01) + taxaLicenciamento;
         } else if (combustivel.equals("flex")) {
             valorIpva = (valorVeiculo * 0.03) + taxaLicenciamento;
         } else if (combustivel.equals("gasolina")) {
             valorIpva = valorVeiculo * 0.04;
-        }
+        }else{
+	   valorIpva = valorVeiculo * 0.05;
     }
 
     @Override
