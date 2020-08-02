@@ -23,7 +23,8 @@ public class Ipva extends Veiculo {
         } else if (combustivel.equals("gasolina")) {
             valorIpva = valorVeiculo * 0.04;
         }else{
-	   valorIpva = valorVeiculo * 0.05;
+	    valorIpva = valorVeiculo * 0.05;
+    	}
     }
 
     @Override
